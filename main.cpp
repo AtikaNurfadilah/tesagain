@@ -5,7 +5,7 @@
     void initRendering() {
      glEnable(GL_DEPTH_TEST); //metode hidden_surface removal untuk mengatur sudut pandang kapan suatu objek tertutup dengan objek lain
      glEnable(GL_COLOR_MATERIAL); //
-     glEnable(GL_LIGHTING); //Enable lighting
+     glEnable(GL_LIGHTING); //Enable lighting pencahayaan
      glEnable(GL_LIGHT0); //Enable light #0
      glEnable(GL_LIGHT1); //Enable light #1
      glEnable(GL_NORMALIZE); //Automatically normalize normals
