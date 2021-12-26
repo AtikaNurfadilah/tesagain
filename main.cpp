@@ -9,7 +9,7 @@
      glEnable(GL_LIGHT0); //Enable light #0
      glEnable(GL_LIGHT1); //Enable light #1
      glEnable(GL_NORMALIZE); //Automatically normalize normals
-     glShadeModel(GL_SMOOTH); //Enable smooth shading
+     glShadeModel(GL_SMOOTH); //Enable smooth shading bayangan
     }
 
     //Called when the window is resized
