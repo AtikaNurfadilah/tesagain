@@ -1,5 +1,5 @@
 #include <windows.h>
-#include <GL/glut.h> //tesskomentar
+#include <GL/glut.h> //tesskomentar tes lagi
 
     //Initializes 3D rendering (memberikan inisialisai 3D)
     void initRendering() {
